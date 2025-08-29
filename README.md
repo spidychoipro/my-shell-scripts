@@ -1,7 +1,3 @@
-Sure\! 요청하신 대로 README 파일을 영어로 좀 더 멋지게 다듬어 드릴게요.
-
------
-
 ### **`my-shell-scripts`**
 
 **A collection of my personal Linux shell scripts.**
